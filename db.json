@@ -1,5 +1,13 @@
 {
   "auth": {
     "token": "some_token"
+  }.
+  "user": {
+    "name": "Igor",
+    "surname": "Ivanov",
+    "email": "povelitel_kisoc@gmail.com",
+    "age": 28,
+    "sex": "M",
+    "photo": "https://vokrug-tv.ru/pic/person/f/2/0/7/f2073f62bfa96bbc291ebd37ef8c1659.jpg"
   }
 }
