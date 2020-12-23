@@ -1,7 +1,7 @@
 {
   "auth": {
     "token": "some_token"
-  }.
+  },
   "user": {
     "name": "Igor",
     "surname": "Ivanov",
