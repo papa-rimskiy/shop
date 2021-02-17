@@ -24,6 +24,23 @@
       "currency": "RUB",
       "details": "Timberland® exclusive Gripstick™ outsole is made with super-sticky 34% recycled rubber.x",
       "img": "https://m.media-amazon.com/images/I/715tJvlh1sL._AC_SR700,525_.jpg"
+    },
+    {
+      "title": "Timberland 6 Basic Non-Contrast Waterproof",
+      "amount": 5000,
+      "currency": "RUB",
+      "details": "Timberland® exclusive Gripstick™ outsole is made with super-sticky 34% recycled rubber.x",
+      "img": "https://m.media-amazon.com/images/I/715tJvlh1sL._AC_SR700,525_.jpg"
+    }
+  ]
+  "game" : [
+    {
+      "name" : "cat power",
+      "record" : 0
+    },
+    {
+     "name" : "tic tac toe"
+     "record" : 0
     }
   ]
 }
