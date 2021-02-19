@@ -29,11 +29,11 @@
   "game": [
     {
       "name" : "cat power",
-      "record" : 0
+      "life" : 10
     },
     {
      "name" : "tic tac toe",
-     "record" : 0
+     "life" : 10
     }
   ]
 }
